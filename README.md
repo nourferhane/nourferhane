@@ -6,8 +6,8 @@
   <img align="left" alt="Foysal's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
-
-Thanks for visting my github account, you are the ![](https://visitor-badge.glitch.me/badge?page_id=nourferhane)th visitor <3 
+Thank you for visiting my github profil ! U+1F601
+![](https://visitor-badge.glitch.me/badge?page_id=nourferhane)
 
 <br/>
 Hi, I'm<strong>  Ferhane Nour</strong> a Full-Stack Developer .NET - React - Angular | Back-End Development | Team Player | Constantly Seeking Learning Opportunities And Ways To Improve Me.
