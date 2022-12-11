@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="GIF" height="250" src="https://tenor.com/view/cat-coding-gif-22257939" />
+  <img alt="GIF" height="250" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" />
 </p>
 
 #### connect with me: 
