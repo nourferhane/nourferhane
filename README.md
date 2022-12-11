@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="GIF" height="250" src="[https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif](https://tenor.com/view/cat-coding-gif-22257939)" />
+  <img alt="GIF" height="250" src="https://tenor.com/view/cat-coding-gif-22257939" />
 </p>
 
 #### connect with me: 
@@ -10,25 +10,10 @@
 
 [//]: # (</a>)
 
-
-<a style="margin-left: 30px;" href="https://discord.com/channels/Foysal5152">
-  <img align="left" alt="Foysal's Discord" width="22px" src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png"/>
-</a> 
-
- <a href="https://twitter.com/iamfoysal_">
-  <img align="left" alt="Foysal's| Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/iam-foysal/">
+<a href="https://www.linkedin.com/in/nour-ferhane-a75ab5116/">
   <img align="left" alt="Foysal's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
-<a href="https://codepen.io/iamfoysal">
-  <img align="left" alt="Foysal's  Codepen" width="22px" src="https://pic.onlinewebfonts.com/svg/img_529734.png"/>
-</a>
 
-<a style="margin-left: 30px;" href="https://stackoverflow.com/users/17486887/happycoder">
-  <img align="left" alt="Foysal's Stack Overflow" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"/>
-</a> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nourferhane)
 
@@ -75,8 +60,6 @@ Hi, I'm<strong>  Ferhane Nour</strong> a Full-Stack Web Developer| Back-End Deve
 
 [//]: # ( <img align="center" src="https://github-profile-trophy.vercel.app/?username=nourferhane" alt="iamfoysal"/></a> </p>)
 
-[//]: # ( )
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nourferhane)  
  
 
 
