@@ -7,7 +7,7 @@
 </a>
 
 
-Thanks for visting my github account, you are the [](https://visitor-badge.glitch.me/badge?page_id=nourferhane)th visitor <3 
+Thanks for visting my github account, you are the ![](https://visitor-badge.glitch.me/badge?page_id=nourferhane)th visitor <3 
 
 <br/>
 Hi, I'm<strong>  Ferhane Nour</strong> a Full-Stack Developer .NET - React - Angular | Back-End Development | Team Player | Constantly Seeking Learning Opportunities And Ways To Improve Me.
