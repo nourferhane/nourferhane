@@ -2,13 +2,7 @@
   <img alt="GIF" height="250" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" />
 </p>
 
-#### connect with me: 
-
-[//]: # (  <img align="left" width="22px" src=" "/>)
-
-[//]: # (</a>)
-
-<a href="https://www.linkedin.com/in/nour-ferhane-a75ab5116/">
+#### connect with me: <a href="https://www.linkedin.com/in/nour-ferhane-a75ab5116/">
   <img align="left" alt="Foysal's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
