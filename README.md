@@ -3,8 +3,6 @@
 </p>
 
 #### connect with me: 
-<br />
-
 
 [//]: # (  <img align="left" width="22px" src=" "/>)
 
