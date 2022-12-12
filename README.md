@@ -2,14 +2,6 @@
   <img alt="GIF" height="250" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" />
 </p>
 
-[//]: # (<a  style="margin-left: 30px;" href="https://www.facebook.com/foysalofficial.box/">)
-
-[//]: # (  <img align="left" width="22px" src=" "/>)
-
-[//]: # (</a>)
-
-#### connect with me: <a href="https://www.linkedin.com/in/nour-ferhane-a75ab5116/">
-  </br>
 
 Thank you for visiting my github profil ! you are the
 ![](https://visitor-badge.glitch.me/badge?page_id=nourferhane) !
