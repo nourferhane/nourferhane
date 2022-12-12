@@ -8,8 +8,8 @@
 
 [//]: # (</a>)
 
-#### connect with me: <a href="https://www.linkedin.com/in/nour-ferhane-a75ab5116/"></a>
-</br>
+#### connect with me: <a href="https://www.linkedin.com/in/nour-ferhane-a75ab5116/">
+  </br>
 
 Thank you for visiting my github profil ! you are the
 ![](https://visitor-badge.glitch.me/badge?page_id=nourferhane) !
