@@ -8,9 +8,8 @@
 
 [//]: # (</a>)
 
-#### connect with me: <a href="https://www.linkedin.com/in/iam-foysal/">
-  <img align="left" alt="Foysal's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
+#### connect with me: <a href="[url](https://www.linkedin.com/in/nour-ferhane-a75ab5116/)">Linkedin</a>
+
 </br>
 
 Thank you for visiting my github profil ! you are the
